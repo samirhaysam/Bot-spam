@@ -1,0 +1,1 @@
+worker: python bot_etisalat_webhook_safe.py
